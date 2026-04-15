@@ -1,7 +1,7 @@
 # Loopmaker
 - Focused on building web applications and improving every day.
 
-Portfolio: https://loopmaker.netlify.app/
+Portfolio: [loopmaker.netlify.app](https://loopmaker.netlify.app/)
 
 ---
 
